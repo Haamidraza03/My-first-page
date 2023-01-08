@@ -26,6 +26,7 @@ function check()
             document.getElementById('email').value="";
             document.getElementById('password').value="";
             document.getElementById('cpassword').value="";
+            window.open("./login.html")
         })      
     }
     else if(pswd1!=pswd2){
