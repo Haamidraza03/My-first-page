@@ -26,6 +26,7 @@ function check()
             {
                 alert('Login successful');
                 window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+                window.open("./index.html")
             }
             
            let test2 = users.filter((x)=>
