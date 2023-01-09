@@ -21,7 +21,7 @@ function check()
             body:JSON.stringify(user)
         }).then(()=>
         {
-            alert('Your Data is pushed succesfully into the database.');
+            alert('Your Data is saved successfully.Please Login.');
             document.getElementById('name').value="";
             document.getElementById('email').value="";
             document.getElementById('password').value="";
