@@ -68,13 +68,15 @@ a{
 
 .btn
 {
-    padding: 8px 30px;
+    padding: 10px 170px;
+    width:380px;
     border:none;
+    margin-block: 4px;
     background-color: rgb(9, 9, 58);
     color: rgb(245, 245, 245);
     border-radius: 8px;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 250;
     cursor: pointer;
     justify-items: center;
 }
