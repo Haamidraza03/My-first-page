@@ -1,9 +1,9 @@
 function check()
 {
-    window.open("./signup.html")
+    window.location.href="./signup.html"
 }
 
 function chek()
 {
-    window.open("./login.html")
+    window.location.href="./login.html"
 }
